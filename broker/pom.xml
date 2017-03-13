@@ -10,6 +10,7 @@
 
     <artifactId>moquette-broker</artifactId>
     <packaging>jar</packaging>
+    <version>0.10-SNAPSHOT-jz1</version>
     <name>Moquette - broker</name>
 
     <properties>
